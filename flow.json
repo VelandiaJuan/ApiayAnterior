@@ -869,7 +869,9 @@
             "20aa1ab35334cb43"
         ],
         "x": 24,
-        "y": 609
+        "y": 609,
+        "w": 2632,
+        "h": 552
     },
     {
         "id": "3cb51855.a66038",
@@ -884,7 +886,9 @@
             "ecf98f3f.4a704"
         ],
         "x": 1074,
-        "y": 1169
+        "y": 1169,
+        "w": 232,
+        "h": 82
     },
     {
         "id": "27a0641a.d154dc",
@@ -1557,9 +1561,7 @@
             "98ca0b1c.cda4f8"
         ],
         "x": 24,
-        "y": 29,
-        "w": 942,
-        "h": 202
+        "y": 29
     },
     {
         "id": "57eba231.4d56dc",
@@ -1579,9 +1581,7 @@
             "e9e93a2c.deeb18"
         ],
         "x": 28,
-        "y": 243,
-        "w": 374,
-        "h": 304
+        "y": 243
     },
     {
         "id": "dbdc491cb6e9eee5",
@@ -2213,7 +2213,9 @@
             "84eb16f681c366e0"
         ],
         "x": 1074,
-        "y": 1269
+        "y": 1269,
+        "w": 352,
+        "h": 82
     },
     {
         "id": "6202107f.ed9aa",
@@ -2288,7 +2290,9 @@
             "6a4b869a.479368"
         ],
         "x": 44,
-        "y": -1
+        "y": -1,
+        "w": 1992,
+        "h": 602
     },
     {
         "id": "986845c5f7bf4a6e",
@@ -2307,7 +2311,9 @@
             "f401446baabcbb6e"
         ],
         "x": 3224,
-        "y": 3
+        "y": 3,
+        "w": 1284,
+        "h": 1554
     },
     {
         "id": "9ede9b9e7f6ac7f4",
@@ -2328,7 +2334,9 @@
             "a0eaac952dc20a15"
         ],
         "x": 24,
-        "y": 1169
+        "y": 1169,
+        "w": 782,
+        "h": 182
     },
     {
         "id": "086b9d08c3b68939",
@@ -2358,7 +2366,9 @@
             "43dcdfeaddbb3ac6"
         ],
         "x": 24,
-        "y": 1359
+        "y": 1359,
+        "w": 1022,
+        "h": 292
     },
     {
         "id": "6b3fc99d.7d45d8",
@@ -2384,7 +2394,9 @@
             "03894c480a20a7a9"
         ],
         "x": 24,
-        "y": 1679
+        "y": 1679,
+        "w": 1222,
+        "h": 202
     },
     {
         "id": "15680a1387d655eb",
@@ -2409,9 +2421,7 @@
             "6f1452c6eef9db91"
         ],
         "x": 24,
-        "y": 509,
-        "w": 932,
-        "h": 432
+        "y": 509
     },
     {
         "id": "4ae0fd0ca9645309",
@@ -2438,9 +2448,7 @@
             "077d5433f197a20c"
         ],
         "x": 24,
-        "y": 19,
-        "w": 932,
-        "h": 482
+        "y": 19
     },
     {
         "id": "76bd25c71a8d7775",
@@ -2479,9 +2487,7 @@
             "3176ad7a0b3bbd81"
         ],
         "x": 24,
-        "y": 949,
-        "w": 932,
-        "h": 1132
+        "y": 949
     },
     {
         "id": "afdbbb533d628687",
@@ -2497,7 +2503,9 @@
             "756bcd33a6cec802"
         ],
         "x": 1264,
-        "y": 1679
+        "y": 1679,
+        "w": 332,
+        "h": 82
     },
     {
         "id": "69ad07e.039c4f8",
@@ -2537,9 +2545,7 @@
             "b5ec8494.5a8578"
         ],
         "x": 984,
-        "y": 49,
-        "w": 1182,
-        "h": 312
+        "y": 49
     },
     {
         "id": "ba075c8cc622876a",
@@ -2606,7 +2612,9 @@
             "8d6f8e22ed531a56"
         ],
         "x": 3434,
-        "y": 29
+        "y": 29,
+        "w": 492,
+        "h": 402
     },
     {
         "id": "f7709059ebe5ad7b",
@@ -2622,7 +2630,9 @@
             "aafad2ba.dcc8b"
         ],
         "x": 3428,
-        "y": 443
+        "y": 443,
+        "w": 1054,
+        "h": 634
     },
     {
         "id": "c483d44b5f6def10",
@@ -2648,7 +2658,9 @@
             "45aad8d3129156ca"
         ],
         "x": 3424,
-        "y": 1089
+        "y": 1089,
+        "w": 472,
+        "h": 442
     },
     {
         "id": "77dcd918.f8c298",
@@ -3627,9 +3639,7 @@
             "f0c186466f456fd2"
         ],
         "x": 54,
-        "y": 269,
-        "w": 322,
-        "h": 122
+        "y": 269
     },
     {
         "id": "e9e93a2c.deeb18",
@@ -3649,9 +3659,7 @@
             "37f2db57.b831c4"
         ],
         "x": 54,
-        "y": 399,
-        "w": 322,
-        "h": 122
+        "y": 399
     },
     {
         "id": "272ed76d.7cce68",
@@ -4189,7 +4197,9 @@
             "bab4ea5e8e01f9aa"
         ],
         "x": 194,
-        "y": 399
+        "y": 399,
+        "w": 852,
+        "h": 82
     },
     {
         "id": "aafad2ba.dcc8b",
@@ -4216,7 +4226,9 @@
             "3ccbaa0b.2db096"
         ],
         "x": 3454,
-        "y": 839
+        "y": 839,
+        "w": 1002,
+        "h": 212
     },
     {
         "id": "36fa9c99094e8f47",
@@ -4240,7 +4252,9 @@
             "3a1748983f097cb1"
         ],
         "x": 3454,
-        "y": 469
+        "y": 469,
+        "w": 402,
+        "h": 362
     },
     {
         "id": "742e267a.cbc27",
@@ -37818,11 +37832,12 @@
         "z": "dd18d94e.4b1408",
         "g": "b2f2659a.67f648",
         "name": "Interpretar comunicación",
-        "func": "var Uint16  =   new Uint16Array(40);\n\nUint16[0]   =   msg.payload.Logic_Status_1;     Uint16[1]   =   msg.payload.Logic_Status_2;\nUint16[2]   =   msg.payload.Output_Frequency_1; Uint16[3]   =   msg.payload.Output_Frequency_2;\nUint16[4]   =   msg.payload.Commanded_SpdRef_1; Uint16[5]   =   msg.payload.Commanded_SpdRef_2;\nUint16[6]   =   msg.payload.Mtr_Vel_Fdbk_1;     Uint16[7]   =   msg.payload.Mtr_Vel_Fdbk_2;\nUint16[8]   =   msg.payload.Output_Current_1;   Uint16[9]   =   msg.payload.Output_Current_2;\nUint16[10]  =   msg.payload.Output_Voltage_1;   Uint16[11]  =   msg.payload.Output_Voltage_2;\nUint16[12]  =   msg.payload.Output_Power_1;     Uint16[13]  =   msg.payload.Output_Power_2;\nUint16[14]  =   msg.payload.Output_Powr_Fctr_1; Uint16[15]  =   msg.payload.Output_Powr_Fctr_2;\nUint16[16]  =   msg.payload.DC_Bus_Volts_1;     Uint16[17]  =   msg.payload.DC_Bus_Volts_2;\nUint16[18]  =   msg.payload.Elapsed_Run_Time_1; Uint16[19]  =   msg.payload.Elapsed_Run_Time_2;\nUint16[20]  =   msg.payload.Elpsd_Mtr_kWHrs_1;  Uint16[21]  =   msg.payload.Elpsd_Mtr_kWHrs_2;\nUint16[22]  =   msg.payload.IGBT_Temp_C_1;      Uint16[23]  =   msg.payload.IGBT_Temp_C_2;\nUint16[24]  =   msg.payload.Drive_Temp_C_1;     Uint16[25]  =   msg.payload.Drive_Temp_C_2;\nUint16[26]  =   msg.payload.Last_Fault_Code_1;  Uint16[27]  =   msg.payload.Last_Fault_Code_2;\nUint16[28]  =   msg.payload.Digital_In_Sts_1;   Uint16[29]  =   msg.payload.Digital_In_Sts_2;\nUint16[30]  =   msg.payload.Tunning_Select_1;   Uint16[31]  =   msg.payload.Tunning_Select_2;\nUint16[32]  =   msg.payload.PMM_OL_Select_1;    Uint16[33]  =   msg.payload.PMM_OL_Select_2;\nUint16[34]  =   msg.payload.Accel_Time_1;       Uint16[35]  =   msg.payload.Accel_Time_2;\nUint16[36]  =   msg.payload.Decel_Time_1;       Uint16[37]  =   msg.payload.Decel_Time_2;\nUint16[38]  =   msg.payload.Max_Fwd_Speed_1;    Uint16[39]  =   msg.payload.Max_Fwd_Speed_2;\n\nvar Sts                 = [Uint16[0],Uint16[1]];\nvar Output_Frequency    = [Uint16[2],Uint16[3]];\nvar Commanded_SpdRef    = [Uint16[4],Uint16[5]];\nvar Mtr_Vel_Fdbk        = [Uint16[6],Uint16[7]];\nvar Output_Current      = [Uint16[8],Uint16[9]];\nvar Output_Voltage      = [Uint16[10],Uint16[11]];\nvar Output_Power        = [Uint16[12],Uint16[13]];\nvar Output_Powr_Fctr    = [Uint16[14],Uint16[15]];\nvar DC_Bus_Volts        = [Uint16[16],Uint16[17]];\nvar Elapsed_Run_Time    = [Uint16[18],Uint16[19]];\nvar Elpsd_Mtr_kWHrs     = [Uint16[20],Uint16[21]];\nvar IGBT_Temp_C         = [Uint16[22],Uint16[23]];\nvar Drive_Temp_C        = [Uint16[24],Uint16[25]];\nvar Last_Fault_Code     = [Uint16[26],Uint16[27]];\nvar Digital_In_Sts      = [Uint16[28],Uint16[29]];\nvar Tunning_Select      = [Uint16[30],Uint16[31]];\nvar PMM_OL_Select       = [Uint16[32],Uint16[33]];\nvar Accel_Time          = [Uint16[34], Uint16[35]];\nvar Decel_Time          = [Uint16[36], Uint16[37]];\nvar Max_Fwd_Speed       = [Uint16[38], Uint16[39]];\n\nmsg.payload =   {\n    'Status_Word'       : Sts[0],\n    'Output_Frequency'  : parseFloat(Int2Float32(array16to32(Output_Frequency))),\n    'Commanded_SpdRef'  : parseFloat(Int2Float32(array16to32(Commanded_SpdRef)).toFixed(3)),\n    'Mtr_Vel_Fdbk'      : parseFloat(Int2Float32(array16to32(Mtr_Vel_Fdbk)).toFixed(3)),\n    'Output_Current'    : parseFloat(Int2Float32(array16to32(Output_Current)).toFixed(3)),\n    'Output_Voltage'    : parseFloat(Int2Float32(array16to32(Output_Voltage)).toFixed(3)),\n    'Output_Power'      : parseFloat(Int2Float32(array16to32(Output_Power)).toFixed(3)),\n    'Power_Factor'      : parseFloat(Int2Float32(array16to32(Output_Powr_Fctr)).toFixed(3)),\n    'Bus_DC_Volts'      : parseFloat(Int2Float32(array16to32(DC_Bus_Volts)).toFixed(3)),\n    'Elapsed_Run_Time'  : parseFloat(Int2Float32(array16to32(Elapsed_Run_Time)).toFixed(3)),\n    'Elpsd_Mtr_kWHrs'   : parseFloat(Int2Float32(array16to32(Elpsd_Mtr_kWHrs)).toFixed(3)),\n    'IGBT_Temp_C'       : parseFloat(Int2Float32(array16to32(IGBT_Temp_C)).toFixed(3)),\n    'Drive_Temp_C'      : parseFloat(Int2Float32(array16to32(Drive_Temp_C)).toFixed(3)),\n    'Last_Fault_Code'   : parseInt(array16to32(Last_Fault_Code)),\n    'Digital_In_Sts'    : parseInt(array16to32(Digital_In_Sts)),\n    'Tunning_Select'    : parseInt(array16to32(Tunning_Select)),\n    'PMM_OL_Select'     : parseInt(array16to32(PMM_OL_Select)),\n    'Accel_Time'        : parseFloat(Int2Float32(array16to32(Accel_Time)).toFixed(3)),\n    'Decel_Time'        : parseFloat(Int2Float32(array16to32(Decel_Time)).toFixed(3)),\n    'Max_Fwd_Speed'     : parseFloat(Int2Float32(array16to32(Max_Fwd_Speed)).toFixed(3))\n}\nreturn msg;\n\n// Combinar dos arrays de 16 bits en uno 32 bits\nfunction array16to32(array){\n    var intvalue = [];\n    for(var i=0; i<array.length; i++){\n        array[i] = array[i] << 16*i;\n        // @ts-ignore\n        intvalue = intvalue | array[i];\n    }\n    return intvalue;\n}\n// IEC 754 to Float Function\nfunction Int2Float32(bytes) {\n    var sign = (bytes & 0x80000000) ? -1 : 1;\n    var exponent = ((bytes >> 23) & 0xFF) - 127;\n    var significand = (bytes & ~(-1 << 23));\n\n    if (exponent == 128) \n        return sign * ((significand) ? Number.NaN : Number.POSITIVE_INFINITY);\n\n    if (exponent == -127) {\n        if (significand === 0) return sign * 0.0;\n        exponent = -126;\n        significand /= (1 << 22);\n    } else significand = (significand | (1 << 23)) / (1 << 23);\n\n    return sign * significand * Math.pow(2, exponent);\n}\n// Créditos: https://flows.nodered.org/flow/359ead34237b7ab6ec0465ee85a34b62\n//Fuente: https://stackoverflow.com/questions/47164675/convert-float-to-32bit-hex-string-in-javascript\n",
+        "func": "var Uint16 = new Uint16Array(40);\n\nUint16[0] = msg.payload.Logic_Status_1; Uint16[1] = msg.payload.Logic_Status_2;\nUint16[2] = msg.payload.Output_Frequency_1; Uint16[3] = msg.payload.Output_Frequency_2;\nUint16[4] = msg.payload.Commanded_SpdRef_1; Uint16[5] = msg.payload.Commanded_SpdRef_2;\nUint16[6] = msg.payload.Mtr_Vel_Fdbk_1; Uint16[7] = msg.payload.Mtr_Vel_Fdbk_2;\nUint16[8] = msg.payload.Output_Current_1; Uint16[9] = msg.payload.Output_Current_2;\nUint16[10] = msg.payload.Output_Voltage_1; Uint16[11] = msg.payload.Output_Voltage_2;\nUint16[12] = msg.payload.Output_Power_1; Uint16[13] = msg.payload.Output_Power_2;\nUint16[14] = msg.payload.Output_Powr_Fctr_1; Uint16[15] = msg.payload.Output_Powr_Fctr_2;\nUint16[16] = msg.payload.DC_Bus_Volts_1; Uint16[17] = msg.payload.DC_Bus_Volts_2;\nUint16[18] = msg.payload.Elapsed_Run_Time_1; Uint16[19] = msg.payload.Elapsed_Run_Time_2;\nUint16[20] = msg.payload.Elpsd_Mtr_kWHrs_1; Uint16[21] = msg.payload.Elpsd_Mtr_kWHrs_2;\nUint16[22] = msg.payload.IGBT_Temp_C_1; Uint16[23] = msg.payload.IGBT_Temp_C_2;\nUint16[24] = msg.payload.Drive_Temp_C_1; Uint16[25] = msg.payload.Drive_Temp_C_2;\nUint16[26] = msg.payload.Last_Fault_Code_1; Uint16[27] = msg.payload.Last_Fault_Code_2;\nUint16[28] = msg.payload.Digital_In_Sts_1; Uint16[29] = msg.payload.Digital_In_Sts_2;\nUint16[30] = msg.payload.Tunning_Select_1; Uint16[31] = msg.payload.Tunning_Select_2;\nUint16[32] = msg.payload.PMM_OL_Select_1; Uint16[33] = msg.payload.PMM_OL_Select_2;\nUint16[34] = msg.payload.Accel_Time_1; Uint16[35] = msg.payload.Accel_Time_2;\nUint16[36] = msg.payload.Decel_Time_1; Uint16[37] = msg.payload.Decel_Time_2;\nUint16[38] = msg.payload.Max_Fwd_Speed_1; Uint16[39] = msg.payload.Max_Fwd_Speed_2;\n\nvar Sts = [Uint16[0], Uint16[1]];\nvar Output_Frequency = [Uint16[2], Uint16[3]];\nvar Commanded_SpdRef = [Uint16[4], Uint16[5]];\nvar Mtr_Vel_Fdbk = [Uint16[6], Uint16[7]];\nvar Output_Current = [Uint16[8], Uint16[9]];\nvar Output_Voltage = [Uint16[10], Uint16[11]];\nvar Output_Power = [Uint16[12], Uint16[13]];\nvar Output_Powr_Fctr = [Uint16[14], Uint16[15]];\nvar DC_Bus_Volts = [Uint16[16], Uint16[17]];\nvar Elapsed_Run_Time = [Uint16[18], Uint16[19]];\nvar Elpsd_Mtr_kWHrs = [Uint16[20], Uint16[21]];\nvar IGBT_Temp_C = [Uint16[22], Uint16[23]];\nvar Drive_Temp_C = [Uint16[24], Uint16[25]];\nvar Last_Fault_Code = [Uint16[26], Uint16[27]];\nvar Digital_In_Sts = [1, 1];\nvar Tunning_Select = [Uint16[30], Uint16[31]];\nvar PMM_OL_Select = [Uint16[32], Uint16[33]];\nvar Accel_Time = [Uint16[34], Uint16[35]];\nvar Decel_Time = [Uint16[36], Uint16[37]];\nvar Max_Fwd_Speed = [Uint16[38], Uint16[39]];\n\nmsg.payload = {\n    'Status_Word': Sts[0],\n    'Output_Frequency': parseFloat(Int2Float32(array16to32(Output_Frequency))),\n    'Commanded_SpdRef': parseFloat(Int2Float32(array16to32(Commanded_SpdRef)).toFixed(3)),\n    'Mtr_Vel_Fdbk': parseFloat(Int2Float32(array16to32(Mtr_Vel_Fdbk)).toFixed(3)),\n    'Output_Current': parseFloat(Int2Float32(array16to32(Output_Current)).toFixed(3)),\n    'Output_Voltage': parseFloat(Int2Float32(array16to32(Output_Voltage)).toFixed(3)),\n    'Output_Power': parseFloat(Int2Float32(array16to32(Output_Power)).toFixed(3)),\n    'Power_Factor': parseFloat(Int2Float32(array16to32(Output_Powr_Fctr)).toFixed(3)),\n    'Bus_DC_Volts': parseFloat(Int2Float32(array16to32(DC_Bus_Volts)).toFixed(3)),\n    'Elapsed_Run_Time': parseFloat(Int2Float32(array16to32(Elapsed_Run_Time)).toFixed(3)),\n    'Elpsd_Mtr_kWHrs': parseFloat(Int2Float32(array16to32(Elpsd_Mtr_kWHrs)).toFixed(3)),\n    'IGBT_Temp_C': parseFloat(Int2Float32(array16to32(IGBT_Temp_C)).toFixed(3)),\n    'Drive_Temp_C': parseFloat(Int2Float32(array16to32(Drive_Temp_C)).toFixed(3)),\n    'Last_Fault_Code': parseInt(array16to32(Last_Fault_Code)),\n    'Digital_In_Sts': parseInt(array16to32(Digital_In_Sts)),\n    'Tunning_Select': parseInt(array16to32(Tunning_Select)),\n    'PMM_OL_Select': parseInt(array16to32(PMM_OL_Select)),\n    'Accel_Time': parseFloat(Int2Float32(array16to32(Accel_Time)).toFixed(3)),\n    'Decel_Time': parseFloat(Int2Float32(array16to32(Decel_Time)).toFixed(3)),\n    'Max_Fwd_Speed': parseFloat(Int2Float32(array16to32(Max_Fwd_Speed)).toFixed(3))\n}\nreturn msg;\n\n// Combinar dos arrays de 16 bits en uno 32 bits\nfunction array16to32(array) {\n    var intvalue = [];\n    for (var i = 0; i < array.length; i++) {\n        array[i] = array[i] << 16 * i;\n        // @ts-ignore\n        intvalue = intvalue | array[i];\n    }\n    return intvalue;\n}\n// IEC 754 to Float Function\nfunction Int2Float32(bytes) {\n    var sign = (bytes & 0x80000000) ? -1 : 1;\n    var exponent = ((bytes >> 23) & 0xFF) - 127;\n    var significand = (bytes & ~(-1 << 23));\n\n    if (exponent == 128)\n        return sign * ((significand) ? Number.NaN : Number.POSITIVE_INFINITY);\n\n    if (exponent == -127) {\n        if (significand === 0) return sign * 0.0;\n        exponent = -126;\n        significand /= (1 << 22);\n    } else significand = (significand | (1 << 23)) / (1 << 23);\n\n    return sign * significand * Math.pow(2, exponent);\n}\n// Créditos: https://flows.nodered.org/flow/359ead34237b7ab6ec0465ee85a34b62\n//Fuente: https://stackoverflow.com/questions/47164675/convert-float-to-32bit-hex-string-in-javascript\n",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
+        "libs": [],
         "x": 400,
         "y": 310,
         "wires": [
