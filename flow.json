@@ -2744,6 +2744,58 @@
         "y": 89
     },
     {
+        "id": "588e07663b907a82",
+        "type": "group",
+        "z": "e6821175539a9f75",
+        "name": "Tipo SCADA",
+        "style": {
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "5a4a7320ef1bc1dc",
+            "bd124bb4da2e2bd9",
+            "7b6c6918c8a7e81a",
+            "eac9944e8b1fc5d1"
+        ],
+        "x": 74,
+        "y": 759
+    },
+    {
+        "id": "f429b8c2f43466c5",
+        "type": "group",
+        "z": "e6821175539a9f75",
+        "name": "Mapa Modbus y Comandos VSD Remotos",
+        "style": {
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "5993c0f75c8aaf11",
+            "caf0090d354f1e1b",
+            "3b31f6c246a4b87c",
+            "638aabd962d8d901"
+        ],
+        "x": 68,
+        "y": 43
+    },
+    {
+        "id": "f592afbe9c379bc2",
+        "type": "group",
+        "z": "e6821175539a9f75",
+        "name": "Ajuste de protecciones desde Modbus",
+        "style": {
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "1daccb81f38ef4b7",
+            "d72990d313669d80"
+        ],
+        "x": 2218,
+        "y": 43
+    },
+    {
         "id": "b079c206d161b62c",
         "type": "group",
         "z": "902fc438.e5d758",
@@ -4352,6 +4404,209 @@
         "h": 82
     },
     {
+        "id": "5993c0f75c8aaf11",
+        "type": "group",
+        "z": "e6821175539a9f75",
+        "g": "f429b8c2f43466c5",
+        "name": "Arranque / Parada / Reset / Remotos",
+        "style": {
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "05ca317db8d0e3da",
+            "052b4ad7694f4e17",
+            "486becd32fe0c840",
+            "40a7a5e88d4d7930",
+            "9e8a82afc942c4f1",
+            "ee13d90e8bca9376",
+            "f42a15c7869ba675",
+            "6026f9a1fb67d99c",
+            "63cf0ba4fdc55484",
+            "8c7033596c8c0db0",
+            "36ce91758a343c02",
+            "4c92ff039447c86b",
+            "75902e961c65b5a6",
+            "723285e7032ce44e",
+            "618cf993e767dd2e",
+            "ae2142a6eae4a65a",
+            "3ef2bbb7933b1fd6",
+            "722b128ccd16575f",
+            "92c93624c0b032ea",
+            "217035c4455be2eb",
+            "a4466d073434dfc0",
+            "36d64657e70382a6",
+            "2f575a29d6e4a8f6",
+            "8aefc373c2aa379f",
+            "5da831305132157b"
+        ],
+        "x": 94,
+        "y": 69
+    },
+    {
+        "id": "caf0090d354f1e1b",
+        "type": "group",
+        "z": "e6821175539a9f75",
+        "g": "f429b8c2f43466c5",
+        "name": "Escribir valores en el Mapa",
+        "style": {
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "c87e701e0ec1549b",
+            "cc93b7c6ed85e21c",
+            "71512eef01b494bd",
+            "8284dcc66685ccd5",
+            "d23b1fd334f33849",
+            "b51faf480bf40ecb",
+            "90a9bcb8a8355fc9",
+            "3724defddc128482",
+            "0c3aac3aad88afd2",
+            "32721f56ac3b4acf"
+        ],
+        "x": 94,
+        "y": 339
+    },
+    {
+        "id": "638aabd962d8d901",
+        "type": "group",
+        "z": "e6821175539a9f75",
+        "g": "f429b8c2f43466c5",
+        "name": "Referencia remota",
+        "style": {
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "791811d763297b51",
+            "b9964b24b8e04eab",
+            "6ee257d699f817b0",
+            "04ba72f1d3638998",
+            "8b1a609d64c70224",
+            "c6349afceceaa2b1",
+            "e8b8aabc6e66efaa",
+            "d85742b36c9a69fc",
+            "bbee6005efba56a6",
+            "d8cac115cd2439de",
+            "c555af8b70dc1ad9",
+            "2db4297d54caf0bd",
+            "c7d4f5f25758d815"
+        ],
+        "x": 1084,
+        "y": 339
+    },
+    {
+        "id": "3b31f6c246a4b87c",
+        "type": "group",
+        "z": "e6821175539a9f75",
+        "g": "f429b8c2f43466c5",
+        "name": "Cambio de sentido de giro remoto",
+        "style": {
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "549b7380b7097254",
+            "5d696eb6d1b57169",
+            "d138f792a4644eac",
+            "cae26e844e780f4a",
+            "2dd8e878a937af2c",
+            "bb01b54601d3208b",
+            "61188d443ebc9ac4",
+            "219390f011a502d6",
+            "0953502886d10e38",
+            "6d3c4aba5765e9d9",
+            "c45b6d1289bcac97",
+            "161f14d9c64bcdbe",
+            "fd9caa47aef045c3",
+            "bdf9ab5f03f60c97",
+            "f8202f3e72457da4",
+            "f5f9bbd9749f54ac",
+            "a0f4704bc1e630d9",
+            "3c4964f2c73bbc99",
+            "8499ef2f10f695e3",
+            "3beef93f3144bc82",
+            "ac48a73ca5e98ec8",
+            "456e75e34641ddc9",
+            "5b81bf7df322ea66",
+            "1a4d3ac6b430b75e"
+        ],
+        "x": 94,
+        "y": 479
+    },
+    {
+        "id": "1daccb81f38ef4b7",
+        "type": "group",
+        "z": "e6821175539a9f75",
+        "g": "f592afbe9c379bc2",
+        "name": "Protecciones Mapa Modbus",
+        "style": {
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "073fe84f42087cd0",
+            "3a9e3ff9f3a024fd",
+            "bab9c7ac0f69a19d",
+            "3c5af758d8fe9c8e",
+            "35739e9bf403c68b",
+            "f035dc23d03fc587",
+            "2ba2ef61bd953012",
+            "155092ecba465e01",
+            "f3deb7b482271fb4",
+            "57a83f8387443216",
+            "e8cb15a28107047c",
+            "09aaf3415d0d9dca",
+            "4bd5bcfa9e566bab",
+            "6f55276c459203e3",
+            "27632c0ac760ef77",
+            "4a90cb38b0bd62a6",
+            "00b2926fd0c76e1f",
+            "cee7f1760c5d0719",
+            "aa2bb4c09016803e",
+            "1df43d98feb3baa4",
+            "473af1285b384f9d",
+            "56578e6c4dd1b3bd",
+            "3573ffb160f5f9f9",
+            "e2c0b75451126443",
+            "730ab318e5bfb117",
+            "aa0984dd6b2d8366",
+            "f058e41598aee83f",
+            "4aad2e03bf1bb0db",
+            "ef5d3cbda955df01",
+            "957e5efea236c9b5",
+            "4c3942a9014cee4a",
+            "09371974403bf307",
+            "943b77784026d225",
+            "92b4ae0fa6b3beac",
+            "f0a02f2b011a3c78"
+        ],
+        "x": 2244,
+        "y": 69
+    },
+    {
+        "id": "d72990d313669d80",
+        "type": "group",
+        "z": "e6821175539a9f75",
+        "g": "f592afbe9c379bc2",
+        "name": "Habilitar/Deshabilitar Edición local de Protecciones",
+        "style": {
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "5152474adf6ee14f",
+            "6c4856a5a58625d4",
+            "4704f36f5a07ad7e",
+            "7fe57b4e24bb7d4c",
+            "d5b03c678420b8c5",
+            "ebcd8f153ea6ccd4"
+        ],
+        "x": 2244,
+        "y": 609
+    },
+    {
         "id": "aafad2ba.dcc8b",
         "type": "group",
         "z": "902fc438.e5d758",
@@ -5593,279 +5848,6 @@
         ],
         "x": 84,
         "y": 1579
-    },
-    {
-        "id": "588e07663b907a82",
-        "type": "group",
-        "z": "e6821175539a9f75",
-        "name": "Tipo SCADA",
-        "style": {
-            "label": true,
-            "color": "#000000"
-        },
-        "nodes": [
-            "5a4a7320ef1bc1dc",
-            "bd124bb4da2e2bd9",
-            "7b6c6918c8a7e81a",
-            "eac9944e8b1fc5d1"
-        ],
-        "x": 74,
-        "y": 759,
-        "w": 332,
-        "h": 122
-    },
-    {
-        "id": "f429b8c2f43466c5",
-        "type": "group",
-        "z": "e6821175539a9f75",
-        "name": "Mapa Modbus y Comandos VSD Remotos",
-        "style": {
-            "label": true,
-            "color": "#000000"
-        },
-        "nodes": [
-            "5993c0f75c8aaf11",
-            "caf0090d354f1e1b",
-            "3b31f6c246a4b87c",
-            "638aabd962d8d901"
-        ],
-        "x": 68,
-        "y": 43,
-        "w": 2174,
-        "h": 704
-    },
-    {
-        "id": "f592afbe9c379bc2",
-        "type": "group",
-        "z": "e6821175539a9f75",
-        "name": "Ajuste de protecciones desde Modbus",
-        "style": {
-            "label": true,
-            "color": "#000000"
-        },
-        "nodes": [
-            "1daccb81f38ef4b7",
-            "d72990d313669d80"
-        ],
-        "x": 2218,
-        "y": 43,
-        "w": 1344,
-        "h": 714
-    },
-    {
-        "id": "5993c0f75c8aaf11",
-        "type": "group",
-        "z": "e6821175539a9f75",
-        "g": "f429b8c2f43466c5",
-        "name": "Arranque / Parada / Reset / Remotos",
-        "style": {
-            "label": true,
-            "color": "#000000"
-        },
-        "nodes": [
-            "05ca317db8d0e3da",
-            "052b4ad7694f4e17",
-            "486becd32fe0c840",
-            "40a7a5e88d4d7930",
-            "9e8a82afc942c4f1",
-            "ee13d90e8bca9376",
-            "f42a15c7869ba675",
-            "6026f9a1fb67d99c",
-            "63cf0ba4fdc55484",
-            "8c7033596c8c0db0",
-            "36ce91758a343c02",
-            "4c92ff039447c86b",
-            "75902e961c65b5a6",
-            "723285e7032ce44e",
-            "618cf993e767dd2e",
-            "ae2142a6eae4a65a",
-            "3ef2bbb7933b1fd6",
-            "722b128ccd16575f",
-            "92c93624c0b032ea",
-            "217035c4455be2eb",
-            "a4466d073434dfc0",
-            "36d64657e70382a6",
-            "2f575a29d6e4a8f6",
-            "8aefc373c2aa379f",
-            "5da831305132157b"
-        ],
-        "x": 94,
-        "y": 69,
-        "w": 2092,
-        "h": 262
-    },
-    {
-        "id": "caf0090d354f1e1b",
-        "type": "group",
-        "z": "e6821175539a9f75",
-        "g": "f429b8c2f43466c5",
-        "name": "Escribir valores en el Mapa",
-        "style": {
-            "label": true,
-            "color": "#000000"
-        },
-        "nodes": [
-            "c87e701e0ec1549b",
-            "cc93b7c6ed85e21c",
-            "71512eef01b494bd",
-            "8284dcc66685ccd5",
-            "d23b1fd334f33849",
-            "b51faf480bf40ecb",
-            "90a9bcb8a8355fc9",
-            "3724defddc128482",
-            "0c3aac3aad88afd2",
-            "32721f56ac3b4acf"
-        ],
-        "x": 94,
-        "y": 339,
-        "w": 952,
-        "h": 132
-    },
-    {
-        "id": "638aabd962d8d901",
-        "type": "group",
-        "z": "e6821175539a9f75",
-        "g": "f429b8c2f43466c5",
-        "name": "Referencia remota",
-        "style": {
-            "label": true,
-            "color": "#000000"
-        },
-        "nodes": [
-            "791811d763297b51",
-            "b9964b24b8e04eab",
-            "6ee257d699f817b0",
-            "04ba72f1d3638998",
-            "8b1a609d64c70224",
-            "c6349afceceaa2b1",
-            "e8b8aabc6e66efaa",
-            "d85742b36c9a69fc",
-            "bbee6005efba56a6",
-            "d8cac115cd2439de",
-            "c555af8b70dc1ad9",
-            "2db4297d54caf0bd",
-            "c7d4f5f25758d815"
-        ],
-        "x": 1084,
-        "y": 339,
-        "w": 1132,
-        "h": 132
-    },
-    {
-        "id": "3b31f6c246a4b87c",
-        "type": "group",
-        "z": "e6821175539a9f75",
-        "g": "f429b8c2f43466c5",
-        "name": "Cambio de sentido de giro remoto",
-        "style": {
-            "label": true,
-            "color": "#000000"
-        },
-        "nodes": [
-            "549b7380b7097254",
-            "5d696eb6d1b57169",
-            "d138f792a4644eac",
-            "cae26e844e780f4a",
-            "2dd8e878a937af2c",
-            "bb01b54601d3208b",
-            "61188d443ebc9ac4",
-            "219390f011a502d6",
-            "0953502886d10e38",
-            "6d3c4aba5765e9d9",
-            "c45b6d1289bcac97",
-            "161f14d9c64bcdbe",
-            "fd9caa47aef045c3",
-            "bdf9ab5f03f60c97",
-            "f8202f3e72457da4",
-            "f5f9bbd9749f54ac",
-            "a0f4704bc1e630d9",
-            "3c4964f2c73bbc99",
-            "8499ef2f10f695e3",
-            "3beef93f3144bc82",
-            "ac48a73ca5e98ec8",
-            "456e75e34641ddc9",
-            "5b81bf7df322ea66",
-            "1a4d3ac6b430b75e"
-        ],
-        "x": 94,
-        "y": 479,
-        "w": 1672,
-        "h": 242
-    },
-    {
-        "id": "1daccb81f38ef4b7",
-        "type": "group",
-        "z": "e6821175539a9f75",
-        "g": "f592afbe9c379bc2",
-        "name": "Protecciones Mapa Modbus",
-        "style": {
-            "label": true,
-            "color": "#000000"
-        },
-        "nodes": [
-            "073fe84f42087cd0",
-            "3a9e3ff9f3a024fd",
-            "bab9c7ac0f69a19d",
-            "3c5af758d8fe9c8e",
-            "35739e9bf403c68b",
-            "f035dc23d03fc587",
-            "2ba2ef61bd953012",
-            "155092ecba465e01",
-            "f3deb7b482271fb4",
-            "57a83f8387443216",
-            "e8cb15a28107047c",
-            "09aaf3415d0d9dca",
-            "4bd5bcfa9e566bab",
-            "6f55276c459203e3",
-            "27632c0ac760ef77",
-            "4a90cb38b0bd62a6",
-            "00b2926fd0c76e1f",
-            "cee7f1760c5d0719",
-            "aa2bb4c09016803e",
-            "1df43d98feb3baa4",
-            "473af1285b384f9d",
-            "56578e6c4dd1b3bd",
-            "3573ffb160f5f9f9",
-            "e2c0b75451126443",
-            "730ab318e5bfb117",
-            "aa0984dd6b2d8366",
-            "f058e41598aee83f",
-            "4aad2e03bf1bb0db",
-            "ef5d3cbda955df01",
-            "957e5efea236c9b5",
-            "4c3942a9014cee4a",
-            "09371974403bf307",
-            "943b77784026d225",
-            "92b4ae0fa6b3beac",
-            "f0a02f2b011a3c78"
-        ],
-        "x": 2244,
-        "y": 69,
-        "w": 1292,
-        "h": 532
-    },
-    {
-        "id": "d72990d313669d80",
-        "type": "group",
-        "z": "e6821175539a9f75",
-        "g": "f592afbe9c379bc2",
-        "name": "Habilitar/Deshabilitar Edición local de Protecciones",
-        "style": {
-            "label": true,
-            "color": "#000000"
-        },
-        "nodes": [
-            "5152474adf6ee14f",
-            "6c4856a5a58625d4",
-            "4704f36f5a07ad7e",
-            "7fe57b4e24bb7d4c",
-            "d5b03c678420b8c5",
-            "ebcd8f153ea6ccd4"
-        ],
-        "x": 2244,
-        "y": 609,
-        "w": 832,
-        "h": 122
     },
     {
         "id": "d25d405a.19cff",
@@ -65202,11 +65184,12 @@
         "type": "function",
         "z": "c8b77ff3.ab501",
         "name": "time",
-        "func": "var rampadesc = global.get(\"C2S.Speed_Control.Decel\")||0;\nvar hzmotor = global.get(\"C2S.Motor_Control.Nameplate.Hertz\")||60;\nvar frecact = global.get(\"C2S.Implicit.Output_Frequency\",\"memoryOnly\")||0;\n msg.delay = parseInt(((frecact/hzmotor)*rampadesc)*1000+500);\nreturn msg;",
+        "func": "var rampadesc = global.get(\"C2S.Speed_Control.Decel\")||0;\nvar hzmotor = global.get(\"C2S.Motor_Control.Nameplate.Hertz\")||60;\nvar frecact = Math.abs(global.get(\"C2S.Implicit.Output_Frequency\",\"memoryOnly\"))||0;\n msg.delay = parseInt(((frecact/hzmotor)*rampadesc)*1000+500);\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
+        "libs": [],
         "x": 1580,
         "y": 230,
         "wires": [
