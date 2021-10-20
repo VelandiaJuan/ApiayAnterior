@@ -979,9 +979,7 @@
             "20aa1ab35334cb43"
         ],
         "x": 24,
-        "y": 609,
-        "w": 2632,
-        "h": 552
+        "y": 609
     },
     {
         "id": "3cb51855.a66038",
@@ -996,9 +994,7 @@
             "ecf98f3f.4a704"
         ],
         "x": 1074,
-        "y": 1169,
-        "w": 232,
-        "h": 82
+        "y": 1169
     },
     {
         "id": "27a0641a.d154dc",
@@ -2262,7 +2258,9 @@
             "b4d97ea9.9a1f1"
         ],
         "x": 28,
-        "y": 33
+        "y": 33,
+        "w": 2514,
+        "h": 864
     },
     {
         "id": "c2c81bf2.d0a218",
@@ -2321,9 +2319,7 @@
             "84eb16f681c366e0"
         ],
         "x": 1074,
-        "y": 1269,
-        "w": 352,
-        "h": 82
+        "y": 1269
     },
     {
         "id": "6202107f.ed9aa",
@@ -2398,9 +2394,7 @@
             "6a4b869a.479368"
         ],
         "x": 44,
-        "y": -1,
-        "w": 1992,
-        "h": 602
+        "y": -1
     },
     {
         "id": "986845c5f7bf4a6e",
@@ -2419,9 +2413,7 @@
             "f401446baabcbb6e"
         ],
         "x": 3224,
-        "y": 3,
-        "w": 1284,
-        "h": 1554
+        "y": 3
     },
     {
         "id": "9ede9b9e7f6ac7f4",
@@ -2442,9 +2434,7 @@
             "a0eaac952dc20a15"
         ],
         "x": 24,
-        "y": 1169,
-        "w": 782,
-        "h": 182
+        "y": 1169
     },
     {
         "id": "086b9d08c3b68939",
@@ -2474,9 +2464,7 @@
             "43dcdfeaddbb3ac6"
         ],
         "x": 24,
-        "y": 1359,
-        "w": 1022,
-        "h": 292
+        "y": 1359
     },
     {
         "id": "6b3fc99d.7d45d8",
@@ -2502,9 +2490,7 @@
             "03894c480a20a7a9"
         ],
         "x": 24,
-        "y": 1679,
-        "w": 1222,
-        "h": 202
+        "y": 1679
     },
     {
         "id": "15680a1387d655eb",
@@ -2611,9 +2597,7 @@
             "756bcd33a6cec802"
         ],
         "x": 1264,
-        "y": 1679,
-        "w": 332,
-        "h": 82
+        "y": 1679
     },
     {
         "id": "69ad07e.039c4f8",
@@ -2818,9 +2802,7 @@
             "8d6f8e22ed531a56"
         ],
         "x": 3434,
-        "y": 29,
-        "w": 492,
-        "h": 402
+        "y": 29
     },
     {
         "id": "f7709059ebe5ad7b",
@@ -2836,9 +2818,7 @@
             "aafad2ba.dcc8b"
         ],
         "x": 3428,
-        "y": 443,
-        "w": 1054,
-        "h": 634
+        "y": 443
     },
     {
         "id": "c483d44b5f6def10",
@@ -2864,9 +2844,7 @@
             "45aad8d3129156ca"
         ],
         "x": 3424,
-        "y": 1089,
-        "w": 472,
-        "h": 442
+        "y": 1089
     },
     {
         "id": "77dcd918.f8c298",
@@ -4156,7 +4134,9 @@
             "aa646335.08c07"
         ],
         "x": 54,
-        "y": 59
+        "y": 59,
+        "w": 752,
+        "h": 202
     },
     {
         "id": "f3b2b1b2.a0af2",
@@ -4186,7 +4166,9 @@
             "168b6577.3e722b"
         ],
         "x": 814,
-        "y": 59
+        "y": 59,
+        "w": 892,
+        "h": 292
     },
     {
         "id": "4384031.9ff1afc",
@@ -4211,7 +4193,9 @@
             "0c30f8189e25396b"
         ],
         "x": 1714,
-        "y": 59
+        "y": 59,
+        "w": 802,
+        "h": 202
     },
     {
         "id": "b4d97ea9.9a1f1",
@@ -4272,10 +4256,13 @@
             "f498fdbf7ce6961d",
             "53dc0629efb2bf3e",
             "0fe3f1b5af4b2c70",
-            "ad4dd5b2b0af6c29"
+            "ad4dd5b2b0af6c29",
+            "588b9659e634551a"
         ],
         "x": 54,
-        "y": 359
+        "y": 359,
+        "w": 1912,
+        "h": 512
     },
     {
         "id": "afcd8222.ca23b",
@@ -4399,9 +4386,7 @@
             "bab4ea5e8e01f9aa"
         ],
         "x": 194,
-        "y": 399,
-        "w": 852,
-        "h": 82
+        "y": 399
     },
     {
         "id": "5993c0f75c8aaf11",
@@ -4631,9 +4616,7 @@
             "3ccbaa0b.2db096"
         ],
         "x": 3454,
-        "y": 839,
-        "w": 1002,
-        "h": 212
+        "y": 839
     },
     {
         "id": "36fa9c99094e8f47",
@@ -4657,9 +4640,7 @@
             "3a1748983f097cb1"
         ],
         "x": 3454,
-        "y": 469,
-        "w": 402,
-        "h": 362
+        "y": 469
     },
     {
         "id": "742e267a.cbc27",
@@ -39941,6 +39922,11 @@
                 "label": "Borets Spy-Pro-SPS-1500",
                 "value": "Borets Spy-Pro-SPS-1500",
                 "type": "str"
+            },
+            {
+                "label": "Novomet NSP-04",
+                "value": "Novomet NSP-04",
+                "type": "str"
             }
         ],
         "payload": "",
@@ -54121,7 +54107,8 @@
         "y": 500,
         "wires": [
             [
-                "1dfca80a.0b9d78"
+                "1dfca80a.0b9d78",
+                "588b9659e634551a"
             ]
         ]
     },
@@ -54485,11 +54472,12 @@
         "z": "fb40d997e0f412a5",
         "g": "b4d97ea9.9a1f1",
         "name": "E8",
-        "func": "var Current_Attempt = global.get(\"Control_functions.RockingStart.Attempts.Current\")||0;\nvar Max_Attempt     = global.get(\"Control_functions.RockingStart.Attempts.Max\")||0;\nCurrent_Attempt += 1;\n\nflow.set(\"Control_functions.RockingStart.Attempts.Current\",Current_Attempt);\n\nif(Current_Attempt < Max_Attempt){\n    msg.topic = \"Attempt_in_Range\";\n}\nelse{\n    msg.topic = \"Attempt_Done\";\n}\n\nnode.status({fill:\"green\",shape:\"dot\",text:Current_Attempt});\n\nreturn msg;",
+        "func": "var Current_Attempt = flow.get(\"Control_functions.RockingStart.Attempts.Current\")||0;\nvar Max_Attempt     = global.get(\"Control_functions.RockingStart.Attempts.Max\")||0;\nCurrent_Attempt += 1;\n\nflow.set(\"Control_functions.RockingStart.Attempts.Current\",Current_Attempt);\n//global.set(\"Control_functions.RockingStart.Attempts.Current\",Current_Attempt);\n\nif(Current_Attempt < Max_Attempt){\n    msg.topic = \"Attempt_in_Range\";\n   \n}\nelse{\n    msg.topic = \"Attempt_Done\";\n    Current_Attempt = 0;\n    flow.set(\"Control_functions.RockingStart.Attempts.Current\",Current_Attempt);\n}\n\nnode.status({fill:\"green\",shape:\"dot\",text:Current_Attempt});\n\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
+        "libs": [],
         "x": 1180,
         "y": 750,
         "wires": [
@@ -54710,19 +54698,20 @@
         "z": "fb40d997e0f412a5",
         "g": "b4d97ea9.9a1f1",
         "name": "E9",
-        "func": "msg.payload = global.get(\"C2S.Last_Reference.Value\")||0;\nmsg.topic = \"Speed_restored\";\nnode.status({fill:\"green\",shape:\"dot\",text:msg.payload});\nmsg.payload = msg.payload * 10000;\nreturn msg;",
+        "func": "msg.payload = global.get(\"C2S.Last_Reference.Value\")||0;\nmsg.topic = \"Speed_restored\";\nnode.status({fill:\"green\",shape:\"dot\",text:msg.payload});\n//msg.payload = msg.payload * 10000;\nreturn msg;",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
+        "libs": [],
         "x": 1180,
         "y": 800,
         "wires": [
             [
                 "9757bec7.cb582",
                 "f12b186c.4312a8",
-                "6362e6081ae4c9bc",
-                "ad4dd5b2b0af6c29"
+                "ad4dd5b2b0af6c29",
+                "6362e6081ae4c9bc"
             ]
         ]
     },
@@ -64370,8 +64359,10 @@
         "id": "0fe3f1b5af4b2c70",
         "type": "subflow:c8b77ff3.ab501",
         "z": "fb40d997e0f412a5",
+        "d": true,
         "g": "b4d97ea9.9a1f1",
         "name": "",
+        "env": [],
         "x": 1710,
         "y": 830,
         "wires": [
@@ -64383,6 +64374,7 @@
         "id": "ad4dd5b2b0af6c29",
         "type": "change",
         "z": "fb40d997e0f412a5",
+        "d": true,
         "g": "b4d97ea9.9a1f1",
         "name": "",
         "rules": [
@@ -76515,6 +76507,24 @@
         "statusType": "auto",
         "x": 1940,
         "y": 170,
+        "wires": []
+    },
+    {
+        "id": "588b9659e634551a",
+        "type": "debug",
+        "z": "fb40d997e0f412a5",
+        "g": "b4d97ea9.9a1f1",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": true,
+        "complete": "topic",
+        "targetType": "msg",
+        "statusVal": "payload",
+        "statusType": "auto",
+        "x": 1640,
+        "y": 430,
         "wires": []
     }
 ]
