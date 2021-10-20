@@ -977,7 +977,8 @@
             "3484e5233d4f23d3",
             "628cd5f619b29af6",
             "20aa1ab35334cb43",
-            "dbcf8f5297732447"
+            "dbcf8f5297732447",
+            "6d167983e631a52b"
         ],
         "x": 24,
         "y": 609,
@@ -1478,7 +1479,9 @@
             "c249c18f3081eb3e"
         ],
         "x": 24,
-        "y": 429
+        "y": 429,
+        "w": 712,
+        "h": 242
     },
     {
         "id": "6abd418f.d175b",
@@ -1493,7 +1496,9 @@
             "b2f2659a.67f648"
         ],
         "x": 18,
-        "y": 23
+        "y": 23,
+        "w": 1754,
+        "h": 394
     },
     {
         "id": "8c207e440fb46f33",
@@ -1509,7 +1514,9 @@
             "9f77b0d829ad914b"
         ],
         "x": 514,
-        "y": 769
+        "y": 769,
+        "w": 282,
+        "h": 82
     },
     {
         "id": "38940f8.c9c27f",
@@ -2228,7 +2235,9 @@
             "b9df7528.923398"
         ],
         "x": 28,
-        "y": 23
+        "y": 23,
+        "w": 2970,
+        "h": 1062
     },
     {
         "id": "83483662ea05d247",
@@ -2263,9 +2272,7 @@
             "b4d97ea9.9a1f1"
         ],
         "x": 28,
-        "y": 33,
-        "w": 2514,
-        "h": 864
+        "y": 33
     },
     {
         "id": "c2c81bf2.d0a218",
@@ -3739,7 +3746,9 @@
             "c30439cc.4bcb68"
         ],
         "x": 44,
-        "y": 49
+        "y": 49,
+        "w": 1422,
+        "h": 212
     },
     {
         "id": "b2f2659a.67f648",
@@ -3766,7 +3775,9 @@
             "e92736fb1766d1e0"
         ],
         "x": 44,
-        "y": 269
+        "y": 269,
+        "w": 1702,
+        "h": 122
     },
     {
         "id": "70a63b74.44894c",
@@ -3982,10 +3993,14 @@
             "677759898efe0053",
             "8a259519ac32d6f7",
             "64c862c08b3c181c",
-            "dba5a375ebc26199"
+            "dba5a375ebc26199",
+            "783348a7cf6380b9",
+            "d72ae6eaa84edc01"
         ],
         "x": 54,
-        "y": 359
+        "y": 359,
+        "w": 1832,
+        "h": 700
     },
     {
         "id": "7aad629d.de652c",
@@ -4050,7 +4065,9 @@
             "b4c9b17bde2f220c"
         ],
         "x": 54,
-        "y": 49
+        "y": 49,
+        "w": 2762,
+        "h": 302
     },
     {
         "id": "8f8a192b.bb2ef8",
@@ -4079,7 +4096,9 @@
             "4e19cfd4.3982f"
         ],
         "x": 1894,
-        "y": 439
+        "y": 439,
+        "w": 1062,
+        "h": 232
     },
     {
         "id": "b9df7528.923398",
@@ -4095,8 +4114,10 @@
         "nodes": [
             "65994a87.9d5eb4"
         ],
-        "x": 1898,
-        "y": 683
+        "x": 1888,
+        "y": 683,
+        "w": 1084,
+        "h": 134
     },
     {
         "id": "6625e1db09743bc3",
@@ -4159,9 +4180,7 @@
             "aa646335.08c07"
         ],
         "x": 54,
-        "y": 59,
-        "w": 752,
-        "h": 202
+        "y": 59
     },
     {
         "id": "f3b2b1b2.a0af2",
@@ -4191,9 +4210,7 @@
             "168b6577.3e722b"
         ],
         "x": 814,
-        "y": 59,
-        "w": 892,
-        "h": 292
+        "y": 59
     },
     {
         "id": "4384031.9ff1afc",
@@ -4218,9 +4235,7 @@
             "0c30f8189e25396b"
         ],
         "x": 1714,
-        "y": 59,
-        "w": 802,
-        "h": 202
+        "y": 59
     },
     {
         "id": "b4d97ea9.9a1f1",
@@ -4285,9 +4300,7 @@
             "588b9659e634551a"
         ],
         "x": 54,
-        "y": 359,
-        "w": 1912,
-        "h": 512
+        "y": 359
     },
     {
         "id": "afcd8222.ca23b",
@@ -5629,8 +5642,10 @@
             "b0f432e9.afb6f",
             "f4363e16.f1813"
         ],
-        "x": 1924,
-        "y": 709
+        "x": 1914,
+        "y": 709,
+        "w": 1032,
+        "h": 82
     },
     {
         "id": "dd4ef7f.6489508",
@@ -31443,12 +31458,12 @@
         "multiple": false,
         "options": [
             {
-                "label": "Activa en bajo",
+                "label": "NC",
                 "value": "NC",
                 "type": "str"
             },
             {
-                "label": "Activa en alto",
+                "label": "NO",
                 "value": "NO",
                 "type": "str"
             }
@@ -50040,11 +50055,12 @@
         "z": "d08f14e12055286a",
         "g": "dad84feb.d4773",
         "name": "Start & Falla Gral",
-        "func": "var Start_Stop  = global.get(\"C2S.FlagStatus\");\nvar FallaGral = global.get(\"IO.Functions.DO['Falla general']\",\"memoryOnly\");\n\nif(Start_Stop && !FallaGral){\n    node.status({fill:\"green\",shape:\"dot\",text:\"Started\"});\n    return msg;\n}\nelse{\n    node.status({fill:\"yellow\",shape:\"dot\",text:\"Stoped\"});\n    return;\n}\n",
+        "func": "var Start_Stop  = global.get(\"C2S.FlagStatus\");\n\nif(Start_Stop){\n    node.status({fill:\"green\",shape:\"dot\",text:\"Started\"});\n    return msg;\n}\nelse{\n    node.status({fill:\"yellow\",shape:\"dot\",text:\"Stoped\"});\n    return;\n}\n",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
+        "libs": [],
         "x": 340,
         "y": 540,
         "wires": [
@@ -52174,7 +52190,8 @@
         "wires": [
             [
                 "de4880db95ed8834",
-                "cb35c95f.b22ce8"
+                "cb35c95f.b22ce8",
+                "d72ae6eaa84edc01"
             ]
         ]
     },
@@ -63955,7 +63972,7 @@
         "z": "7a89175c.90f6a8",
         "g": "2fa4e5be63ea61ce",
         "name": "Falla general",
-        "func": "var Drive_fault    = (global.get('C2S.Drive_Status.Fault','memoryOnly') || 0) == 0? false:true;\nvar DI = global.get(\"IO.Functions.DI\", 'memoryOnly');\nvar Prot = global.get('Protections.General','memoryOnly') || false;\nvar DriveEnabled = (global.get(\"C2S.Implicit.Digital_In_Sts\", 'memoryOnly') || 0) == 0 ? false : true;\n// Valor lógico para detección de algún disparo en aplicación\nvar Disparos = DIFunction('Stop ESD') ||\n    DIFunction('Disparo alto nivel de aceite SUT') ||\n    DIFunction('Disparo alta temperatura SUT') ||\n    DIFunction('Disparo bajo bajo nivel de aceite SUT') ||\n    DIFunction('Disparo válvula sobre-presión SUT') ||\n    DIFunction('Disparo alta temperatura filtros') ||\n    DIFunction('Disparo alta presión THP') ||\n    DIFunction('Disparo sobre-tensión SUT')||\n    DIFunction('Disparo puerta abierta')||\n    DIFunction('Disparo shutdown SCC')||\n    DIFunction('Disparo baja presión en la troncal') ||\n    DIFunction('ESD Remoto')||false;\n\nvar FallaGral = Drive_fault || Disparos ||Prot || !DriveEnabled;\nif(FallaGral){\n    global.set(\"IO.Functions.DO['Falla general']\", FallaGral, 'memoryOnly');\n}\nmsg.payload = FallaGral;\n\nFallaGral == true ? node.status({ fill: \"red\", shape: \"dot\", text: \"TRUE\" }) : node.status({ fill: \"green\", shape: \"dot\", text: \"FALSE\" });\n\nreturn msg;\n\n/*\n @param {string | number} IOFunction\n*/\nfunction DIFunction(IOFunction){\n    try {return DI[IOFunction];} \n    catch (error) {return false;};\n}",
+        "func": "var Drive_fault    = (global.get('C2S.Drive_Status.Fault','memoryOnly') || 0) == 0? false:true;\nvar DI = global.get(\"IO.Functions.DI\", 'memoryOnly');\nvar Prot = global.get('Protections.General','memoryOnly') || false;\nvar DriveEnabled = (global.get(\"C2S.Implicit.Digital_In_Sts\", 'memoryOnly') || 0) == 0 ? false : true;\n// Valor lógico para detección de algún disparo en aplicación\nvar Disparos = DIFunction('Stop ESD') ||\n    DIFunction('Disparo alto nivel de aceite SUT') ||\n    DIFunction('Disparo alta temperatura SUT') ||\n    DIFunction('Disparo bajo bajo nivel de aceite SUT') ||\n    DIFunction('Disparo válvula sobre-presión SUT') ||\n    DIFunction('Disparo alta temperatura filtros') ||\n    DIFunction('Disparo alta presión THP') ||\n    DIFunction('Disparo sobre-tensión SUT')||\n    DIFunction('Disparo puerta abierta')||\n    DIFunction('Disparo shutdown SCC')||\n    DIFunction('Disparo baja presión en la troncal') ||\n    DIFunction('ESD Remoto')||false;\n\nvar FallaGral = Drive_fault || Disparos ||Prot || !DriveEnabled;\nif(FallaGral){\n    global.set(\"IO.Functions.DO['Falla general']\", FallaGral, 'memoryOnly');\n}\nmsg.payload = FallaGral;\n\nFallaGral == true ? node.status({ fill: \"red\", shape: \"dot\", text: \"TRUE\" }) : node.status({ fill: \"green\", shape: \"dot\", text: \"FALSE\" });\ncontext.set(\"Drive_fault\", Drive_fault,\"memoryOnly\");\ncontext.set(\"Disparos\", Disparos,\"memoryOnly\");\ncontext.set(\"Prot\", Prot,\"memoryOnly\");\ncontext.set(\"DriveEnabled\", DriveEnabled,\"memoryOnly\");\ncontext.set(\"FallaGral\", FallaGral,\"memoryOnly\");\nreturn msg;\n\n/*\n @param {string | number} IOFunction\n*/\nfunction DIFunction(IOFunction){\n    try {return DI[IOFunction];} \n    catch (error) {return false;};\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -76572,6 +76589,66 @@
         "wires": [
             [
                 "59e526854e2b8c3c"
+            ]
+        ]
+    },
+    {
+        "id": "783348a7cf6380b9",
+        "type": "inject",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 380,
+        "y": 960,
+        "wires": [
+            [
+                "d9b3e61d145ba55d"
+            ]
+        ]
+    },
+    {
+        "id": "d72ae6eaa84edc01",
+        "type": "link out",
+        "z": "d08f14e12055286a",
+        "g": "dad84feb.d4773",
+        "name": "resetSalidaArranqueAutomatico",
+        "links": [
+            "6d167983e631a52b"
+        ],
+        "x": 1015,
+        "y": 740,
+        "wires": []
+    },
+    {
+        "id": "6d167983e631a52b",
+        "type": "link in",
+        "z": "902fc438.e5d758",
+        "g": "fcb3da61.429db8",
+        "name": "resetArranqueAutomatico",
+        "links": [
+            "d72ae6eaa84edc01"
+        ],
+        "x": 1155,
+        "y": 1060,
+        "wires": [
+            [
+                "20aa1ab35334cb43"
             ]
         ]
     }
