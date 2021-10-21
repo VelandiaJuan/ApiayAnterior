@@ -133,6 +133,13 @@
         "info": ""
     },
     {
+        "id": "8ba0552a.e27ca8",
+        "type": "tab",
+        "label": "Otro",
+        "disabled": false,
+        "info": ""
+    },
+    {
         "id": "1ae6c379.02ea3d",
         "type": "subflow",
         "name": "VSDWrite",
@@ -1495,7 +1502,9 @@
             "c249c18f3081eb3e"
         ],
         "x": 24,
-        "y": 429
+        "y": 429,
+        "w": 712,
+        "h": 242
     },
     {
         "id": "6abd418f.d175b",
@@ -1510,7 +1519,9 @@
             "b2f2659a.67f648"
         ],
         "x": 18,
-        "y": 23
+        "y": 23,
+        "w": 1754,
+        "h": 394
     },
     {
         "id": "8c207e440fb46f33",
@@ -1526,7 +1537,9 @@
             "9f77b0d829ad914b"
         ],
         "x": 514,
-        "y": 769
+        "y": 769,
+        "w": 282,
+        "h": 82
     },
     {
         "id": "38940f8.c9c27f",
@@ -1544,7 +1557,9 @@
             "ead83bdf05616014"
         ],
         "x": 18,
-        "y": 23
+        "y": 23,
+        "w": 1464,
+        "h": 664
     },
     {
         "id": "48d282d70b9e72c9",
@@ -1560,7 +1575,9 @@
             "6914a9b4.85f3c"
         ],
         "x": 1884,
-        "y": 239
+        "y": 239,
+        "w": 432,
+        "h": 82
     },
     {
         "id": "9437db38.d604e",
@@ -1584,7 +1601,9 @@
             "03a3b206eac12d39"
         ],
         "x": 1884,
-        "y": 69
+        "y": 69,
+        "w": 1042,
+        "h": 162
     },
     {
         "id": "af8e6105.775618",
@@ -1606,7 +1625,9 @@
             "67ba4794.6cf57"
         ],
         "x": 164,
-        "y": 69
+        "y": 69,
+        "w": 752,
+        "h": 132
     },
     {
         "id": "d84d4fbe.ee6ce",
@@ -1625,7 +1646,9 @@
             "a7f0f525.ae1878"
         ],
         "x": 164,
-        "y": 209
+        "y": 209,
+        "w": 602,
+        "h": 122
     },
     {
         "id": "ef81d12e3dd41149",
@@ -1650,7 +1673,9 @@
             "675ca116feeb5391"
         ],
         "x": 924,
-        "y": 69
+        "y": 69,
+        "w": 952,
+        "h": 362
     },
     {
         "id": "e29eaee41e038edd",
@@ -1678,7 +1703,9 @@
             "98ca0b1c.cda4f8"
         ],
         "x": 24,
-        "y": 29
+        "y": 29,
+        "w": 942,
+        "h": 202
     },
     {
         "id": "57eba231.4d56dc",
@@ -1698,7 +1725,9 @@
             "e9e93a2c.deeb18"
         ],
         "x": 28,
-        "y": 243
+        "y": 243,
+        "w": 374,
+        "h": 304
     },
     {
         "id": "dbdc491cb6e9eee5",
@@ -1736,9 +1765,7 @@
             "d0a28faca735a7cd"
         ],
         "x": 1534,
-        "y": 359,
-        "w": 1192,
-        "h": 732
+        "y": 359
     },
     {
         "id": "99671f60976b1d2a",
@@ -1763,9 +1790,7 @@
             "cf72a5e61eda6fa8"
         ],
         "x": 1544,
-        "y": 29,
-        "w": 992,
-        "h": 212
+        "y": 29
     },
     {
         "id": "95daead77be77494",
@@ -1812,9 +1837,7 @@
             "0990c77b15bde411"
         ],
         "x": 994,
-        "y": 649,
-        "w": 532,
-        "h": 732
+        "y": 649
     },
     {
         "id": "87fca62744442ad4",
@@ -1853,9 +1876,7 @@
             "19a66bb9.eaa504"
         ],
         "x": 44,
-        "y": 409,
-        "w": 702,
-        "h": 272
+        "y": 409
     },
     {
         "id": "a7f58aaec292b159",
@@ -1898,9 +1919,7 @@
             "30359a42be66cafb"
         ],
         "x": 44,
-        "y": 689,
-        "w": 812,
-        "h": 272
+        "y": 689
     },
     {
         "id": "37b64a70f39dda06",
@@ -1939,9 +1958,7 @@
             "e0a3fe6a.f68a1"
         ],
         "x": 44,
-        "y": 969,
-        "w": 742,
-        "h": 272
+        "y": 969
     },
     {
         "id": "ee5753bdd6eedb72",
@@ -1966,9 +1983,7 @@
             "46e32360.5940dc"
         ],
         "x": 44,
-        "y": 239,
-        "w": 912,
-        "h": 162
+        "y": 239
     },
     {
         "id": "931b0370.afc1b",
@@ -2020,7 +2035,9 @@
             "9faabcc1f09b24a8"
         ],
         "x": 1394,
-        "y": 89
+        "y": 89,
+        "w": 662,
+        "h": 272
     },
     {
         "id": "fbbdc4b7.95b5c8",
@@ -2095,7 +2112,9 @@
             "8a99e2610762706f"
         ],
         "x": 34,
-        "y": 393
+        "y": 393,
+        "w": 1988,
+        "h": 848
     },
     {
         "id": "d84615.919209e8",
@@ -2563,7 +2582,9 @@
             "6f1452c6eef9db91"
         ],
         "x": 24,
-        "y": 509
+        "y": 509,
+        "w": 932,
+        "h": 432
     },
     {
         "id": "4ae0fd0ca9645309",
@@ -2590,7 +2611,9 @@
             "077d5433f197a20c"
         ],
         "x": 24,
-        "y": 19
+        "y": 19,
+        "w": 932,
+        "h": 482
     },
     {
         "id": "76bd25c71a8d7775",
@@ -2629,7 +2652,9 @@
             "3176ad7a0b3bbd81"
         ],
         "x": 24,
-        "y": 949
+        "y": 949,
+        "w": 932,
+        "h": 1132
     },
     {
         "id": "afdbbb533d628687",
@@ -2687,7 +2712,9 @@
             "b5ec8494.5a8578"
         ],
         "x": 984,
-        "y": 49
+        "y": 49,
+        "w": 1182,
+        "h": 312
     },
     {
         "id": "ba075c8cc622876a",
@@ -2748,7 +2775,9 @@
             "ab3255a6.eff84"
         ],
         "x": 614,
-        "y": 39
+        "y": 39,
+        "w": 232,
+        "h": 82
     },
     {
         "id": "7b1cc486.a474c4",
@@ -2765,7 +2794,9 @@
             "d48df13e.97f288"
         ],
         "x": 1124,
-        "y": 179
+        "y": 179,
+        "w": 232,
+        "h": 122
     },
     {
         "id": "d199f555.ed8398",
@@ -2779,7 +2810,9 @@
             "ba3951d8.b102a"
         ],
         "x": 1114,
-        "y": 89
+        "y": 89,
+        "w": 272,
+        "h": 82
     },
     {
         "id": "588e07663b907a82",
@@ -3810,7 +3843,9 @@
             "c30439cc.4bcb68"
         ],
         "x": 44,
-        "y": 49
+        "y": 49,
+        "w": 1422,
+        "h": 212
     },
     {
         "id": "b2f2659a.67f648",
@@ -3837,7 +3872,9 @@
             "e92736fb1766d1e0"
         ],
         "x": 44,
-        "y": 269
+        "y": 269,
+        "w": 1702,
+        "h": 122
     },
     {
         "id": "70a63b74.44894c",
@@ -3857,7 +3894,9 @@
             "d22f737e1faaee45"
         ],
         "x": 44,
-        "y": 499
+        "y": 499,
+        "w": 412,
+        "h": 162
     },
     {
         "id": "ee01b6d1.f76f98",
@@ -3896,7 +3935,9 @@
             "43ffc14d.a3cac8"
         ],
         "x": 44,
-        "y": 49
+        "y": 49,
+        "w": 1412,
+        "h": 442
     },
     {
         "id": "e2589faa.5b6d2",
@@ -3915,7 +3956,9 @@
             "f0c186466f456fd2"
         ],
         "x": 54,
-        "y": 269
+        "y": 269,
+        "w": 322,
+        "h": 122
     },
     {
         "id": "e9e93a2c.deeb18",
@@ -3935,7 +3978,9 @@
             "37f2db57.b831c4"
         ],
         "x": 54,
-        "y": 399
+        "y": 399,
+        "w": 322,
+        "h": 122
     },
     {
         "id": "272ed76d.7cce68",
@@ -3961,7 +4006,9 @@
             "97085297.91fc4"
         ],
         "x": 1324,
-        "y": 419
+        "y": 419,
+        "w": 672,
+        "h": 202
     },
     {
         "id": "675af0d1.a9fc4",
@@ -5962,6 +6009,76 @@
         ],
         "x": 84,
         "y": 1579
+    },
+    {
+        "id": "23c99fd.b16886",
+        "type": "group",
+        "z": "8ba0552a.e27ca8",
+        "name": "Actualizar librería PowerFlex 755",
+        "style": {
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "4486e1dc.7b1c6",
+            "17475ea4.e2c431",
+            "699f8e75.52924",
+            "f375ab1b.6713c8",
+            "d057c895.aae998",
+            "daeaa5f3.b6c508",
+            "3b8a4863.32b688",
+            "c099a844.31d128"
+        ],
+        "x": 574,
+        "y": 21.5,
+        "w": 552,
+        "h": 217,
+        "info": "# Condiciones\nSólo funciona si el nombre del proyecto es \"CILA2S-ESP-SWCPRO_AFE\""
+    },
+    {
+        "id": "262051d5.79c84e",
+        "type": "group",
+        "z": "8ba0552a.e27ca8",
+        "name": "Cambiar Splash",
+        "style": {
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "aa3c422d.31446",
+            "4a92f2f5.dac4fc",
+            "6b91a284.15037c",
+            "5e35a538.cad0cc"
+        ],
+        "x": 14,
+        "y": 251.5,
+        "w": 432,
+        "h": 157
+    },
+    {
+        "id": "8a437085.d2b8",
+        "type": "group",
+        "z": "8ba0552a.e27ca8",
+        "name": "Actualizar librería AFE",
+        "style": {
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "6f9f13ef.fb565c",
+            "73f3cb42.e412c4",
+            "b2068e1d.c9d9",
+            "bf48213c.3548c",
+            "129d922.5d7c86e",
+            "2cd9e470.7e562c",
+            "2dae23d1.de8fec",
+            "849c9546.4f8a58"
+        ],
+        "x": 14,
+        "y": 21.5,
+        "w": 552,
+        "h": 217,
+        "info": "# Condiciones\nSólo funciona si el nombre del proyecto es \"CILA2S-ESP-SWCPRO_AFE\""
     },
     {
         "id": "d25d405a.19cff",
@@ -14302,7 +14419,6 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "libs": [],
         "x": 1090,
         "y": 200,
         "wires": [
@@ -14341,7 +14457,6 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "libs": [],
         "x": 1090,
         "y": 320,
         "wires": [
@@ -14555,7 +14670,7 @@
         "z": "43b51d90.0b47f4",
         "g": "78a8be83.7018c",
         "name": "PMM",
-        "property": "C2S.PMM_Mtr.Brand_Selected",
+        "property": "C2S.PMM_Mtr.Brand",
         "propertyType": "flow",
         "rules": [
             {
@@ -15423,7 +15538,7 @@
         "rules": [
             {
                 "t": "set",
-                "p": "C2S.PMM_Mtr.Brand_Selected",
+                "p": "C2S.PMM_Mtr.Brand",
                 "pt": "flow",
                 "to": "payload",
                 "tot": "msg"
@@ -18889,7 +19004,7 @@
         "order": 2,
         "width": 2,
         "height": 1,
-        "passthru": false,
+        "passthru": true,
         "mode": "number",
         "delay": "10",
         "topic": "",
@@ -18913,7 +19028,7 @@
         "order": 3,
         "width": 2,
         "height": 1,
-        "passthru": false,
+        "passthru": true,
         "mode": "number",
         "delay": "10",
         "topic": "",
@@ -18937,7 +19052,7 @@
         "order": 4,
         "width": 2,
         "height": 1,
-        "passthru": false,
+        "passthru": true,
         "mode": "number",
         "delay": "10",
         "topic": "",
@@ -18961,7 +19076,7 @@
         "order": 5,
         "width": 2,
         "height": 1,
-        "passthru": false,
+        "passthru": true,
         "mode": "number",
         "delay": "10",
         "topic": "",
@@ -18985,7 +19100,7 @@
         "order": 6,
         "width": 2,
         "height": 1,
-        "passthru": false,
+        "passthru": true,
         "mode": "number",
         "delay": "10",
         "topic": "",
@@ -19009,7 +19124,7 @@
         "order": 8,
         "width": 2,
         "height": 1,
-        "passthru": false,
+        "passthru": true,
         "mode": "number",
         "delay": "10",
         "topic": "",
@@ -19033,7 +19148,7 @@
         "order": 9,
         "width": 2,
         "height": 1,
-        "passthru": false,
+        "passthru": true,
         "mode": "number",
         "delay": "10",
         "topic": "",
@@ -19057,7 +19172,7 @@
         "order": 10,
         "width": 2,
         "height": 1,
-        "passthru": false,
+        "passthru": true,
         "mode": "number",
         "delay": "10",
         "topic": "",
@@ -19081,7 +19196,7 @@
         "order": 11,
         "width": 2,
         "height": 1,
-        "passthru": false,
+        "passthru": true,
         "mode": "number",
         "delay": "10",
         "topic": "",
@@ -19105,7 +19220,7 @@
         "order": 12,
         "width": 2,
         "height": 1,
-        "passthru": false,
+        "passthru": true,
         "mode": "number",
         "delay": "10",
         "topic": "",
@@ -19129,7 +19244,7 @@
         "order": 1,
         "width": 2,
         "height": 1,
-        "passthru": false,
+        "passthru": true,
         "mode": "number",
         "delay": "10",
         "topic": "",
@@ -19153,7 +19268,7 @@
         "order": 7,
         "width": 2,
         "height": 1,
-        "passthru": false,
+        "passthru": true,
         "mode": "number",
         "delay": "10",
         "topic": "",
@@ -19178,7 +19293,7 @@
         "order": 14,
         "width": 4,
         "height": 1,
-        "passthru": false,
+        "passthru": true,
         "multiple": false,
         "options": [
             {
@@ -20953,7 +21068,7 @@
                 "t": "set",
                 "p": "payload",
                 "pt": "msg",
-                "to": "C2S.PMM_Mtr.Brand_Selected",
+                "to": "C2S.PMM_Mtr.Brand",
                 "tot": "flow"
             }
         ],
@@ -24432,7 +24547,7 @@
         "order": 2,
         "width": 3,
         "height": 1,
-        "passthru": false,
+        "passthru": true,
         "mode": "number",
         "delay": "10",
         "topic": "",
@@ -24456,7 +24571,7 @@
         "order": 7,
         "width": 3,
         "height": 1,
-        "passthru": false,
+        "passthru": true,
         "mode": "number",
         "delay": "10",
         "topic": "",
@@ -24480,7 +24595,7 @@
         "order": 8,
         "width": 2,
         "height": 1,
-        "passthru": false,
+        "passthru": true,
         "mode": "number",
         "delay": "10",
         "topic": "",
@@ -24504,7 +24619,7 @@
         "order": 10,
         "width": 3,
         "height": 1,
-        "passthru": false,
+        "passthru": true,
         "mode": "number",
         "delay": "10",
         "topic": "",
@@ -24528,7 +24643,7 @@
         "order": 6,
         "width": 3,
         "height": 1,
-        "passthru": false,
+        "passthru": true,
         "mode": "number",
         "delay": "10",
         "topic": "",
@@ -24552,7 +24667,7 @@
         "order": 9,
         "width": 2,
         "height": 1,
-        "passthru": false,
+        "passthru": true,
         "mode": "number",
         "delay": "10",
         "topic": "",
@@ -24576,7 +24691,7 @@
         "order": 11,
         "width": 2,
         "height": 1,
-        "passthru": false,
+        "passthru": true,
         "mode": "number",
         "delay": "10",
         "topic": "",
@@ -24601,7 +24716,7 @@
         "order": 13,
         "width": 3,
         "height": 1,
-        "passthru": false,
+        "passthru": true,
         "multiple": false,
         "options": [
             {
@@ -24979,7 +25094,7 @@
         "order": 12,
         "width": 3,
         "height": 1,
-        "passthru": false,
+        "passthru": true,
         "multiple": false,
         "options": [
             {
@@ -25312,7 +25427,7 @@
         "order": 5,
         "width": 2,
         "height": 1,
-        "passthru": false,
+        "passthru": true,
         "mode": "number",
         "delay": "10",
         "topic": "",
@@ -25336,7 +25451,7 @@
         "order": 3,
         "width": 3,
         "height": 1,
-        "passthru": false,
+        "passthru": true,
         "mode": "number",
         "delay": "10",
         "topic": "",
@@ -25360,7 +25475,7 @@
         "order": 4,
         "width": 2,
         "height": 1,
-        "passthru": false,
+        "passthru": true,
         "mode": "number",
         "delay": "10",
         "topic": "",
@@ -38368,7 +38483,6 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "libs": [],
         "x": 1170,
         "y": 310,
         "wires": [
@@ -38461,7 +38575,6 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "libs": [],
         "x": 400,
         "y": 310,
         "wires": [
@@ -41483,7 +41596,6 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "libs": [],
         "x": 170,
         "y": 40,
         "wires": [
@@ -42833,7 +42945,6 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "libs": [],
         "x": 1830,
         "y": 680,
         "wires": [
@@ -48810,7 +48921,6 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "libs": [],
         "x": 2080,
         "y": 500,
         "wires": [
@@ -50151,7 +50261,6 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "libs": [],
         "x": 340,
         "y": 540,
         "wires": [
@@ -53970,7 +54079,6 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "libs": [],
         "x": 1940,
         "y": 200,
         "wires": [
@@ -54615,7 +54723,6 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "libs": [],
         "x": 1180,
         "y": 750,
         "wires": [
@@ -54822,7 +54929,6 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "libs": [],
         "x": 1180,
         "y": 800,
         "wires": [
@@ -60829,7 +60935,6 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "libs": [],
         "x": 1520,
         "y": 150,
         "wires": [
@@ -64048,7 +64153,6 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "libs": [],
         "x": 1630,
         "y": 170,
         "wires": [
@@ -64342,7 +64446,6 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "libs": [],
         "x": 1440,
         "y": 1120,
         "wires": [
@@ -64361,7 +64464,6 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "libs": [],
         "x": 930,
         "y": 1400,
         "wires": [
@@ -65300,7 +65402,6 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "libs": [],
         "x": 1580,
         "y": 230,
         "wires": [
@@ -70287,9 +70388,7 @@
         "gap": "",
         "start": "",
         "inout": "out",
-        "septopics": true,
         "property": "payload",
-        "topi": "topic",
         "x": 1910,
         "y": 1050,
         "wires": [
@@ -70314,7 +70413,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "allowrate": false,
         "x": 2340,
         "y": 1050,
         "wires": [
@@ -70666,9 +70764,7 @@
         "gap": "",
         "start": "",
         "inout": "out",
-        "septopics": true,
         "property": "payload",
-        "topi": "topic",
         "x": 260,
         "y": 2560,
         "wires": [
@@ -71349,7 +71445,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "allowrate": false,
         "x": 1230,
         "y": 1110,
         "wires": [
@@ -71369,7 +71464,6 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "libs": [],
         "x": 1810,
         "y": 560,
         "wires": [
@@ -71438,9 +71532,7 @@
         "gap": "",
         "start": "",
         "inout": "out",
-        "septopics": false,
         "property": "payload.data[0]",
-        "topi": "topic",
         "x": 2490,
         "y": 360,
         "wires": [
@@ -72407,7 +72499,6 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "libs": [],
         "x": 1110,
         "y": 2610,
         "wires": [
@@ -72470,7 +72561,6 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "libs": [],
         "x": 1610,
         "y": 2610,
         "wires": [
@@ -72504,7 +72594,6 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "libs": [],
         "x": 1140,
         "y": 2660,
         "wires": [
@@ -72567,7 +72656,6 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "libs": [],
         "x": 1610,
         "y": 2660,
         "wires": [
@@ -72601,7 +72689,6 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "libs": [],
         "x": 1130,
         "y": 2710,
         "wires": [
@@ -72664,7 +72751,6 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "libs": [],
         "x": 1610,
         "y": 2710,
         "wires": [
@@ -72698,7 +72784,6 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "libs": [],
         "x": 1150,
         "y": 2760,
         "wires": [
@@ -72761,7 +72846,6 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "libs": [],
         "x": 1610,
         "y": 2760,
         "wires": [
@@ -73443,7 +73527,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "allowrate": false,
         "x": 1640,
         "y": 190,
         "wires": [
@@ -73557,7 +73640,6 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "libs": [],
         "x": 1520,
         "y": 150,
         "wires": [
@@ -73636,7 +73718,6 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "libs": [],
         "x": 1580,
         "y": 230,
         "wires": [
@@ -74090,7 +74171,6 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "libs": [],
         "x": 340,
         "y": 380,
         "wires": [
@@ -74652,7 +74732,6 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "libs": [],
         "x": 3060,
         "y": 150,
         "wires": [
@@ -75345,7 +75424,6 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "libs": [],
         "x": 3060,
         "y": 110,
         "wires": [
@@ -75774,7 +75852,6 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "libs": [],
         "x": 1060,
         "y": 540,
         "wires": [
@@ -75795,7 +75872,6 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "libs": [],
         "x": 1630,
         "y": 520,
         "wires": [
@@ -76939,7 +77015,6 @@
         "randomLast": "5",
         "randomUnits": "seconds",
         "drop": false,
-        "allowrate": false,
         "x": 1070,
         "y": 740,
         "wires": [
@@ -76959,11 +77034,438 @@
         "noerr": 0,
         "initialize": "",
         "finalize": "",
-        "libs": [],
         "x": 1290,
         "y": 740,
         "wires": [
             []
+        ]
+    },
+    {
+        "id": "6f9f13ef.fb565c",
+        "type": "inject",
+        "z": "8ba0552a.e27ca8",
+        "g": "8a437085.d2b8",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "x": 130,
+        "y": 70,
+        "wires": [
+            [
+                "73f3cb42.e412c4"
+            ]
+        ]
+    },
+    {
+        "id": "73f3cb42.e412c4",
+        "type": "exec",
+        "z": "8ba0552a.e27ca8",
+        "g": "8a437085.d2b8",
+        "command": "sudo rm ~/.node-red/node_modules/nodepccc/nodePCCC.js",
+        "addpay": false,
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "oldrc": false,
+        "name": "Eliminar librería PCCC actual",
+        "x": 420,
+        "y": 70,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "b2068e1d.c9d9",
+        "type": "complete",
+        "z": "8ba0552a.e27ca8",
+        "g": "8a437085.d2b8",
+        "name": "",
+        "scope": [
+            "73f3cb42.e412c4"
+        ],
+        "uncaught": false,
+        "x": 110,
+        "y": 110,
+        "wires": [
+            [
+                "bf48213c.3548c"
+            ]
+        ]
+    },
+    {
+        "id": "bf48213c.3548c",
+        "type": "exec",
+        "z": "8ba0552a.e27ca8",
+        "g": "8a437085.d2b8",
+        "command": "sudo cp ~/Documents/PCCC/PowerFlex755AFE/nodePCCC.js ~/.node-red/node_modules/nodepccc/nodePCCC.js",
+        "addpay": false,
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "oldrc": false,
+        "name": "Reemplazar librería AFE",
+        "x": 430,
+        "y": 130,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "129d922.5d7c86e",
+        "type": "inject",
+        "z": "8ba0552a.e27ca8",
+        "g": "8a437085.d2b8",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "x": 130,
+        "y": 150,
+        "wires": [
+            [
+                "bf48213c.3548c"
+            ]
+        ]
+    },
+    {
+        "id": "2cd9e470.7e562c",
+        "type": "exec",
+        "z": "8ba0552a.e27ca8",
+        "g": "8a437085.d2b8",
+        "command": "sudo reboot now",
+        "addpay": false,
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "oldrc": false,
+        "name": "Reiniciar controlador",
+        "x": 440,
+        "y": 190,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "2dae23d1.de8fec",
+        "type": "complete",
+        "z": "8ba0552a.e27ca8",
+        "g": "8a437085.d2b8",
+        "name": "",
+        "scope": [
+            "bf48213c.3548c"
+        ],
+        "uncaught": false,
+        "x": 110,
+        "y": 190,
+        "wires": [
+            [
+                "849c9546.4f8a58"
+            ]
+        ]
+    },
+    {
+        "id": "849c9546.4f8a58",
+        "type": "delay",
+        "z": "8ba0552a.e27ca8",
+        "g": "8a437085.d2b8",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "5",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "x": 260,
+        "y": 190,
+        "wires": [
+            [
+                "2cd9e470.7e562c"
+            ]
+        ]
+    },
+    {
+        "id": "aa3c422d.31446",
+        "type": "exec",
+        "z": "8ba0552a.e27ca8",
+        "g": "262051d5.79c84e",
+        "command": "sudo rm /usr/share/plymouth/themes/pix/splash.png",
+        "addpay": false,
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "oldrc": false,
+        "name": "Remover Splash actual",
+        "x": 310,
+        "y": 300,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "4a92f2f5.dac4fc",
+        "type": "inject",
+        "z": "8ba0552a.e27ca8",
+        "g": "262051d5.79c84e",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "x": 130,
+        "y": 300,
+        "wires": [
+            [
+                "aa3c422d.31446"
+            ]
+        ]
+    },
+    {
+        "id": "6b91a284.15037c",
+        "type": "complete",
+        "z": "8ba0552a.e27ca8",
+        "g": "262051d5.79c84e",
+        "name": "",
+        "scope": [
+            "aa3c422d.31446"
+        ],
+        "uncaught": false,
+        "x": 110,
+        "y": 360,
+        "wires": [
+            [
+                "5e35a538.cad0cc"
+            ]
+        ]
+    },
+    {
+        "id": "5e35a538.cad0cc",
+        "type": "exec",
+        "z": "8ba0552a.e27ca8",
+        "g": "262051d5.79c84e",
+        "command": "sudo cp /home/pi/Documents/splash.png /usr/share/plymouth/themes/pix/splash.png",
+        "addpay": false,
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "oldrc": false,
+        "name": "Insertar Splash",
+        "x": 280,
+        "y": 360,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "4486e1dc.7b1c6",
+        "type": "inject",
+        "z": "8ba0552a.e27ca8",
+        "g": "23c99fd.b16886",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "x": 690,
+        "y": 70,
+        "wires": [
+            [
+                "17475ea4.e2c431"
+            ]
+        ]
+    },
+    {
+        "id": "17475ea4.e2c431",
+        "type": "exec",
+        "z": "8ba0552a.e27ca8",
+        "g": "23c99fd.b16886",
+        "command": "sudo rm ~/.node-red/node_modules/nodepccc/nodePCCC.js",
+        "addpay": false,
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "oldrc": false,
+        "name": "Eliminar librería PCCC actual",
+        "x": 980,
+        "y": 70,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "699f8e75.52924",
+        "type": "complete",
+        "z": "8ba0552a.e27ca8",
+        "g": "23c99fd.b16886",
+        "name": "",
+        "scope": [
+            "17475ea4.e2c431"
+        ],
+        "uncaught": false,
+        "x": 670,
+        "y": 110,
+        "wires": [
+            [
+                "f375ab1b.6713c8"
+            ]
+        ]
+    },
+    {
+        "id": "f375ab1b.6713c8",
+        "type": "exec",
+        "z": "8ba0552a.e27ca8",
+        "g": "23c99fd.b16886",
+        "command": "sudo cp ~/Documents/PCCC/PowerFlex755/nodePCCC.js ~/.node-red/node_modules/nodepccc/nodePCCC.js",
+        "addpay": false,
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "oldrc": false,
+        "name": "Reemplazar librería PowerFlex755",
+        "x": 960,
+        "y": 130,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "d057c895.aae998",
+        "type": "inject",
+        "z": "8ba0552a.e27ca8",
+        "g": "23c99fd.b16886",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "x": 690,
+        "y": 150,
+        "wires": [
+            [
+                "f375ab1b.6713c8"
+            ]
+        ]
+    },
+    {
+        "id": "daeaa5f3.b6c508",
+        "type": "exec",
+        "z": "8ba0552a.e27ca8",
+        "g": "23c99fd.b16886",
+        "command": "sudo reboot now",
+        "addpay": false,
+        "append": "",
+        "useSpawn": "false",
+        "timer": "",
+        "oldrc": false,
+        "name": "Reiniciar controlador",
+        "x": 1000,
+        "y": 190,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "3b8a4863.32b688",
+        "type": "complete",
+        "z": "8ba0552a.e27ca8",
+        "g": "23c99fd.b16886",
+        "name": "",
+        "scope": [
+            "f375ab1b.6713c8"
+        ],
+        "uncaught": false,
+        "x": 670,
+        "y": 190,
+        "wires": [
+            [
+                "c099a844.31d128"
+            ]
+        ]
+    },
+    {
+        "id": "c099a844.31d128",
+        "type": "delay",
+        "z": "8ba0552a.e27ca8",
+        "g": "23c99fd.b16886",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "5",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "x": 820,
+        "y": 190,
+        "wires": [
+            [
+                "daeaa5f3.b6c508"
+            ]
         ]
     }
 ]
